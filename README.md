@@ -1,4 +1,4 @@
-##Sobre mim
+## Sobre mim
 - 📫 Contato: guilherme.passsoni@escola.pr.gov.br
 - 🌱 Estou interrasado em aprender sobre as linguagens HTML e CSS
 - 🌴 Cursando no Alura
